@@ -1,4 +1,4 @@
-# nginx
+# nginx (warning very outdated and possibly broken)
 Nginx reverse proxy using SSL.  
 
 #### For production environments:  
